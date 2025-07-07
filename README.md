@@ -50,6 +50,7 @@ beautifulsoup4
    ```bash
    python3 tahoemls_scraper.py
    ```
+![image](https://github.com/user-attachments/assets/5409004a-e87e-4a83-a17e-5fc4301d1f70)
 
 The script will print progress to the console and create **tahoemls\_members.csv** in the same directory.
 
